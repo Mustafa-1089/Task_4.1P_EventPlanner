@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task_4.1P</string>
+    <string name="title">Event Planner App</string>
+    <string name="create_button">Add a new event</string>
+    <string name="event_title">Title</string>
+    <string name="enter_event_title">Enter Event Title</string>
+    <string name="category">Category</string>
+    <string name="location">Location</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="date_time">Date and Time</string>
+    <string name="date_time_button">Pick a Date and Time</string>
+    <string name="date_selected">No date selected</string>
+    <string name="btnEdit">Edit</string>
+    <string name="btnDelete">Delete</string>
+</resources>
